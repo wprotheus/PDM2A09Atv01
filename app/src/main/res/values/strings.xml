@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PDM2A10Atv01TimePicker</string>
+    <string name="btn_gerar">GERAR ALARME</string>
+    <string name="tv_escolher">"Horário escolhido: "</string>
+    <string name="tv_horario_escolhido">00:00:00</string>
+    <string name="channel_name">8</string>
+    <string name="channel_description">Channel #8</string>
+    <string name="dados_baixados">Dados baixados e prontos para uso</string>
+    <string name="problema_end">URL inválida ou erro ao obter os dados</string>
+    <string name="nome_pedra">Nome das pedras</string>
+    <string name="valor_numero">Valor dos números</string>
+    <string name="channel">Channel#8</string>
+    <string name="desc_channel">Descrição do canal #8</string>
+    <string name="title_not">JSON</string>
+    <string name="desc_not">Iniciado o download do arquivo</string>
+    <string name="nome_classe"><![CDATA[Pedras & Números]]></string>
+    <string name="perm_title">Atenção</string>
+    <string name="msg_perm">Permissão necessária para executar o app</string>
+    <string name="btn_sim">SIM</string>
+    <string name="btn_nao">NÃO</string>
+    <string name="msg_sair">Até logo</string>
+</resources>
